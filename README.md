@@ -1,8 +1,8 @@
 <h3 align="left">Connect with me:</h3>
 <ul align="left" style="list-style: none; padding-left: 0; display: flex; flex-direction: column; gap: 10px;">
   <li style="list-style-type: none;">
-    <a href="mailto:uzairkbrr@gmail.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Email_white.svg" alt="Email" height="25" />
+    <a href="mailto:uzairkbrr@gmail.com" target="_blank" style="text-decoration: none;">
+      Email
     </a>
   </li>
   <li style="list-style-type: none;">
