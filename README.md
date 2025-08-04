@@ -2,7 +2,7 @@
 <ul align="left" style="list-style: none; padding-left: 0; display: flex; flex-direction: column; gap: 10px;">
   <li style="list-style-type: none;">
     <a href="mailto:uzairkbrr@gmail.com" target="_blank">
-      <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" height="25" />
+      <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Email_white.svg" alt="Email" height="25" />
     </a>
   </li>
   <li style="list-style-type: none;">
